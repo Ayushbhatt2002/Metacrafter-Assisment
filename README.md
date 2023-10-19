@@ -35,7 +35,9 @@ pragma solidity 0.8.18;
        to the amount that is supposed to be burned.
        
 */
+
 contract MyToken {
+
     // public variables here
     string public tokenname = "ADARSH"; 
     string public tokenAbbrv = "ADR"; 
